@@ -1,0 +1,33 @@
+# Jupyter Notebook Checkpoints
+.ipynb_checkpoints/
+
+# Python Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# VS Code
+.vscode/
+
+# Datenordner (große Dateien wie CSV, ZIP etc.)
+data/
+*.csv
+*.zip
+*.gz
+*.parquet
+
+# Umgebungsdateien
+.env
+*.env
+
+# Temporäre Dateien
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+
+# Python virtual environment (wenn lokal vorhanden)
+venv/
+.env/
