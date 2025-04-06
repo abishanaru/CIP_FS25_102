@@ -11,7 +11,6 @@ __pycache__/
 
 # Datenordner (große Dateien wie CSV, ZIP etc.)
 data/
-*.csv
 *.zip
 *.gz
 *.parquet
