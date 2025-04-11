@@ -40,9 +40,14 @@ beautifulsoup4==4.12.2
 - `data/`: Raw and processed data files
 
 ## Installation
-1. Clone the repository
-2. Install dependencies: `pip install -r requirements.txt`
-3. Run Jupyter notebook: `jupyter notebook main.ipynb`
+1. Install Git LFS (Large File Storage):
+    - For MacOS: `brew install git-lfs`
+    - For Ubuntu/Debian: `sudo apt-get install git-lfs`
+    - For Windows: Download and install from https://git-lfs.com
+2. Clone the repository
+3. Set up Git LFS: `git lfs install`
+4. Install dependencies: `pip install -r requirements.txt`
+5. Run Jupyter notebook: `jupyter notebook main.ipynb`
 
 ## Usage
 The analysis is presented in two formats:
