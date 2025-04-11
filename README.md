@@ -16,9 +16,9 @@ This project investigates parking space availability in Zurich and Basel, Switze
     - Conducted a comparative analysis of Zurich vs. Basel Parking Data.
 
 ## Research Questions
-1. How does parking availability change throughout the day, week, and across seasons?
-2. What is the relationship between weather conditions and parking availability?
-3. How does parking availability in Zurich compare to Basel?
+1. ow does parking availability in Zurich change throughout the day, week, and across seasons?
+2. How does the average parking availability in Zurich compare to that of Basel?
+3. What is the relationship between weather conditions and parking availability in Zurich?
 
 ## Data Sources
 - Parking data from Zurich: Parkendd API
@@ -63,4 +63,4 @@ beautifulsoup4==4.12.2
 ## Usage
 The analysis is presented in two formats:
 1. Jupyter notebook: Includes detailed explanations, code, and visualizations. The notebook is structured to follow the research questions systematically, providing insights into parking patterns and their correlations with various factors.
-2. PDF Report: A comprehensive summary of the project findings, methodology, and conclusions. Find it in `parking_analysis_report.pdf`.
+2. PDF Report: A comprehensive summary of the project findings, methodology, and conclusions. Find it in `CIP_FS25_102_documentation.pdf`.
