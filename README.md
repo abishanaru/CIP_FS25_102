@@ -4,6 +4,17 @@ This is a course of the masters program Applied Information and Data Science at 
 ## About the Project
 This project investigates parking space availability in Zurich and Basel, Switzerland, analyzing patterns and correlations with weather conditions. The study examines daily, weekly, and seasonal variations in parking occupancy while considering factors such as working hours versus non-working hours, weekdays versus weekends, and weather impacts.
 
+## Contributors
+- Abishan Arumugavel:
+    - Responsible for Zurich Parking Data Import via API and subsequent data cleaning.
+    - Conducted Weather Webscraping and performed Weather Data Cleaning.
+    - Performed Weather Correlation Analysis to identify relationships between weather and parking data.
+
+- Sandra Deck:
+    - Handled Basel Parking Data Import from CSV files and performed data cleaning.
+    - Analyzed Zurich Parking Data, focusing on comparisons such as weekday vs. weekend and border- vs. working hours.
+    - Conducted a comparative analysis of Zurich vs. Basel Parking Data.
+
 ## Research Questions
 1. How does parking availability change throughout the day, week, and across seasons?
 2. What is the relationship between weather conditions and parking availability?
@@ -53,7 +64,3 @@ beautifulsoup4==4.12.2
 The analysis is presented in two formats:
 1. Jupyter notebook: Includes detailed explanations, code, and visualizations. The notebook is structured to follow the research questions systematically, providing insights into parking patterns and their correlations with various factors.
 2. PDF Report: A comprehensive summary of the project findings, methodology, and conclusions. Find it in `parking_analysis_report.pdf`.
-
-## Contributors
-- Sandra Deck
-- Abishan Arumugavel
