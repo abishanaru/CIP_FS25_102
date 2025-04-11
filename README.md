@@ -59,8 +59,3 @@ beautifulsoup4==4.12.2
 3. Set up Git LFS: `git lfs install`
 4. Install dependencies: `pip install -r requirements.txt`
 5. Run Jupyter notebook: `jupyter notebook main.ipynb`
-
-## Usage
-The analysis is presented in two formats:
-1. Jupyter notebook: Includes detailed explanations, code, and visualizations. The notebook is structured to follow the research questions systematically, providing insights into parking patterns and their correlations with various factors.
-2. PDF Report: A comprehensive summary of the project findings, methodology, and conclusions. Find it in `CIP_FS25_102_documentation.pdf`.
